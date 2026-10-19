@@ -1,0 +1,8 @@
+{
+  "name": "Remix school-project",
+  "description": "Imported from GitHub: MEYSAMgh1370/school-project",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

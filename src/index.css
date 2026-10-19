@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    border-color: var(--border, rgb(226 232 240));
+  }
+}
+
+/* Persian digits support utility */
+.persian-num {
+  font-feature-settings: "ss01";
+}
